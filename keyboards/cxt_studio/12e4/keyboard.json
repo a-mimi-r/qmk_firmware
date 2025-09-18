@@ -1,12 +1,11 @@
 {
     "manufacturer": "CXT",
-    "keyboard_name": "cxt_studio 12E4",
-    "maintainer": "ColinKinloch",
+    "keyboard_name": "CXT Studio 12E4",
+    "maintainer": "ColinKinloch, mimindo",
     "bootloader": "atmel-dfu",
     "diode_direction": "ROW2COL",
     "features": {
         "bootmagic": true,
-        "console": true,
         "extrakey": true,
         "mousekey": true,
         "nkro": true,
