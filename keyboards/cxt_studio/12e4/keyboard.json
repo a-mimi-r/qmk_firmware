@@ -32,18 +32,6 @@
         "animations": {
             "typing_heatmap": true,
             "digital_rain": true,
-            "solid_reactive_simple": true,
-            "solid_reactive": true,
-            "solid_reactive_wide": true,
-            "solid_reactive_multiwide": true,
-            "solid_reactive_cross": true,
-            "solid_reactive_multicross": true,
-            "solid_reactive_nexus": true,
-            "solid_reactive_multinexus": true,
-            "splash": true,
-            "multisplash": true,
-            "solid_splash": true,
-            "solid_multisplash": true
         },
         "default": {
             "animation": "typing_heatmap"
