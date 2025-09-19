@@ -3,6 +3,7 @@
 
 #pragma once
 
+#define RGB_MATRIX_TYPING_HEATMAP_SPREAD 9
 #define DRIVER_LED_TOTAL 12  // Total number of LEDs
 #define RGB_MATRIX_KEYPRESSES
 #define RGB_MATRIX_FRAMEBUFFER_EFFECTS
